@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import { services } from '../constants';
+import { services } from '../consstants';
 import ButtonLink from './ButtonLink';
 import Footer from './Footer';
 
